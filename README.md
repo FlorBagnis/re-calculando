@@ -2,7 +2,7 @@
 
 <p align="center">
 
- <img width="1027" height="834" alt="image" src="https://github.com/user-attachments/assets/3e7247fb-5482-4bd5-8aef-860e6faf8a9b" />
+<img width="1360" height="886" alt="image" src="https://github.com/user-attachments/assets/b10f037f-b74f-4a8d-8768-b412b99df8b2" />
 
 
 > **Re Calculando** es una aplicación web diseñada como una **super calculadora interactiva** que va mucho más allá de las cuentas básicas: permite registrar operaciones, **editar y eliminar** ítems o resultados en tiempo real, personalizar la interfaz con **4 temas visuales** y exportar todo tu historial de cálculos en **PDF** y **CSV**.
